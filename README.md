@@ -34,9 +34,9 @@ AMFit is a web-based platform that offers personalized **gym training** and **di
 | Layer        | Technologies Used               |
 |--------------|----------------------------------|
 | Frontend     | HTML, CSS, JavaScript            |
-| Backend      | PHP (for login/signup & AI integration) |
+| Backend      | JavaScript, PHP                  |
 | AI Integration | OpenAI GPT API (secured)       |
-| Database     | MySQL                            |
+| Database     | phpMyAdmin                       |
 | Server       | WAMP                             |
 | Hosting      | Localhost                        |
 | Browser Support | Chrome, Firefox, Safari, Edge |
